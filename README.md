@@ -15,7 +15,7 @@ Passionate about creating beautiful, functional web apps and eye-catching graphi
 - Mixing creativity with clean code for unique digital products
 
 ✨ **Fun Fact**
-When I’m not coding or designing, I enjoy exploring new design trends & learning the latest web technologies! 
+I hate Yoghurt
 and I like drawing ,you can call me artist !
 
 📫 **Let's Connect!**
