@@ -4,7 +4,7 @@
 Passionate about creating beautiful, functional web apps and eye-catching graphic designs.
 
 **🚀 Tech Stack & Tools**
-- Frontend: React.js, Vite, Tailwind CSS, JavaScript (ES6+)
+- Frontend: React.js, Vite, Tailwind CSS, JavaScript (ES6+), html, css
 - Backend: Node.js, Express.js
 - Database: MongoDB,MySQL
 - Others: Git, GitHub, Figma, Adobe Photoshop, Canva
