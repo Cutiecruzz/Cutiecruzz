@@ -1,5 +1,10 @@
 **Hi there** 👋 **I'm Noor!**
 
+
+
+![eyes-4836_256](https://github.com/user-attachments/assets/6f2cdb40-5e22-4c1e-a937-a96850796f84)
+
+
 💻 Full Stack Web Developer (MERN) | 🎨 Graphic Designer  
 Passionate about creating beautiful, functional web apps and eye-catching graphic designs.
 
